@@ -11,8 +11,9 @@ second paragraph
 **both**
 `git status`
 <pre> apple </pre>
-``` bash git add 
-git commit ```
+``` bash
+git init ```
+``` python print("Hello World") ```
 -Item 1
 -Item 2
     -sub item 1
