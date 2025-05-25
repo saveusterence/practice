@@ -11,7 +11,7 @@ second paragraph
 **both**
 `git status`
 <pre> apple </pre>
-<pre> ``` bash git add git commit ``` </pre>
+``` bash git add git commit ```
 -Item 1
 -Item 2
     -sub item 1
