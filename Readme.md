@@ -25,6 +25,6 @@ second paragraph
 |po   |ta  |to    |
 
 [google](https://www.google.co.uk/)
-![Alt text](![alt text](image.png))
+![Alt text](image.png)
 > block
 ---
