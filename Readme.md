@@ -12,9 +12,14 @@ second paragraph
 `git status`
 <pre> apple </pre>
 
-``` bash git init ```
+``` bash 
+git init 
+```
 
-``` python print("Hello World") ```
+``` python 
+print("Hello World") 
+```
+
 -Item 1
 -Item 2
     -sub item 1
