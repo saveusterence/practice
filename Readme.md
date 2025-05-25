@@ -1,4 +1,4 @@
-#Biggest text
+# Biggest text
 ## medium text
 ### small text
 **bold**
@@ -9,3 +9,6 @@
 <sup>super</sup>
 <ins>underline</ins>
 >qutote 
+1.list
+..*dot
+..1.
