@@ -10,6 +10,7 @@ second paragraph
 *italic*
 **both**
 `git status`
+<pre> apple </pre>
 <pre> ``` bash git add git commit ``` </pre>
 -Item 1
 -Item 2
